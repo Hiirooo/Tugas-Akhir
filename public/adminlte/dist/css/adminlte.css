@@ -15376,4 +15376,16 @@ html.maximized-card {
   width: 32px;
 }
 
+.app-footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+.app-footer a {
+    color: #ffc107;
+    transition: color 0.3s;
+}
+.app-footer a:hover {
+    color: #ffdd57;
+}
 /*# sourceMappingURL=adminlte.css.map */
+
